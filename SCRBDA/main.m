@@ -13,8 +13,8 @@ filename=[newfolder,'\',data_name,'.xlsx'];
 
 ir=1;
 jr=3;
-G=1;
-Tt=100;
+G=30;
+Tt=200;
 num_of_algorithm=1;
 for num=0:num_of_algorithm-1
 eval(['avger',num2str(num),'=zeros(1,Tt);']);
