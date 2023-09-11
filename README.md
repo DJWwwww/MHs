@@ -1,2 +1,4 @@
 # MHs
-SCRBDA的matlab代码
+SCRBDA的matlab代码，用于特征选择。
+其中main函数是主函数，初始设定30次实验，200次迭代。
+文件夹中使用的数据集来自UCI机器学习库
